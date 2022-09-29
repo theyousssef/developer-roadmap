@@ -4,3 +4,7 @@ Computer networking refers to interconnected computing devices that can exchange
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://aws.amazon.com/what-is/computer-networking/'>What is Computer Networking?</BadgeLink>
+
+
+<ResourceGroupTitle>Paid Content</ResourceGroupTitle>
+<BadgeLink colorScheme='yellow' badgeText='Read' href='https://www.udemy.com/course/fundamentals-of-networking-for-effective-backend-design/'>Fundamentals of Networking for Effective Backend Design</BadgeLink>
